@@ -1,27 +1,18 @@
-🚀 Tecnologias
 
+<h2> Habits </h2>
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:<br /><br />
+Projeto desenvolvido no evento NLW - Rocketseat 🚀
 
+Foi desenvolvido o **Habits** um app para ajudar a rastrear seus hábitos diários.<br />
 
-
-HTML e CSS<br />
-JavaScript<br />
-Git e Github<br />
-Figma<br /><br />
-
-💻 Projeto<br />
-
-O Habits é um app para ajudar a rastrear os hábitos.<br />
+![image](https://user-images.githubusercontent.com/88723553/216775830-b41edb08-3666-4e43-81b6-808bebb59c3e.png)
 
 Visite o projeto online<br />
+Click no <a href="https://nathaly-silva.github.io/nlw-setup/">Link</a>
 
-🔖 Layout<br />
-Você pode visualizar o layout do projeto através DESSE LINK. É necessário ter conta no Figma para acessá-lo.
 
 📝 Licença
 Esse projeto está sob a licença MIT.
+by Rocketseat 
 
-Feito com ♥ by Rocketseat 👋 Participe da nossa comunidade!
 
-# nlw-setup
